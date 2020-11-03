@@ -13,4 +13,8 @@ Bowden tube can be inserted to guide the filament in to the module, you might ne
 There should be very little friction if all goes well. 
 
 The module works in either direction.
+
+I printed with 0.4mm nozzle 0.2mm layer height, no supports need.
+Print one of each STL.
+
 <img src="./front.jpeg">
